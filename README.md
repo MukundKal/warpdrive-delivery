@@ -1,7 +1,6 @@
 ﻿![alt text](https://raw.githubusercontent.com/MukundKal/warpdrive-delivery/master/img/header.PNG)
-#WarpDrive Delivery
 
-##Problem?
+# Problem?
 
 Amidst the growing dominance of big e-commerce sites like amazon, local businesses
 
@@ -9,9 +8,11 @@ have been mostly hampered by tactics such as stealing products and selling them 
 
 undercutting prices.
 
-##Solution:
+# Solution:
 
-**Decentralization:** Our p2p app will serve the purpose of faster delivery of products
+## Decentralization:
+
+Our p2p app will serve the purpose of faster delivery of products
 
 from local stores saving customers time and also help the businesses sustain growth
 
@@ -23,9 +24,9 @@ app would allow them to take online orders and reach new customers better and
 
 faster.
 
-**Target Users**:
+# Target Users:
 
-1. *Local Shopkeepers:*This app is mainly beneficial for those shopkeepers who are
+1. _Local Shopkeepers:_ This app is mainly beneficial for those shopkeepers who are
 
 only able to cater their products to the locality that their shops are in and wish to be
 
@@ -44,7 +45,6 @@ Amazon and they can support local businesses.
 **_28th November 2020 was also #SmallBusinessSaturday_**
 
 ##UI:
-![alt text](https://raw.githubusercontent.com/MukundKal/warpdrive-delivery/master/img/ui-1.PNG)
 
 ![alt text](https://raw.githubusercontent.com/MukundKal/warpdrive-delivery/master/img/ui-2.PNG)
 
