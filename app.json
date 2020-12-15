@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "WarpDrive Delivery",
+    "slug": "DD",
+    "platforms": ["ios", "android", "web"],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./app/assets/icon.png",
+    "splash": {
+      "image": "./app/assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "android":{
+      "package":"com.mukundkalra.warpdrive",
+      "versionCode":1
+    }, 
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "description": "A marketplace for buying and selling local stuff."
+  }
+}
