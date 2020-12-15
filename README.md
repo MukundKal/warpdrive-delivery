@@ -1,10 +1,7 @@
-﻿WarpDrive Delivery
+﻿![alt text](https://raw.githubusercontent.com/MukundKal/warpdrive-delivery/master/img/header.PNG)
+#WarpDrive Delivery
 
-Mukund Kalra
-
-201701131
-
-Problem?
+##Problem?
 
 Amidst the growing dominance of big e-commerce sites like amazon, local businesses
 
@@ -12,7 +9,7 @@ have been mostly hampered by tactics such as stealing products and selling them 
 
 undercutting prices.
 
-Solution:
+##Solution:
 
 **Decentralization:** Our p2p app will serve the purpose of faster delivery of products
 
@@ -28,7 +25,7 @@ faster.
 
 **Target Users**:
 
-*Local Shopkeepers:*This app is mainly beneficial for those shopkeepers who are
+1. *Local Shopkeepers:*This app is mainly beneficial for those shopkeepers who are
 
 only able to cater their products to the locality that their shops are in and wish to be
 
@@ -36,7 +33,7 @@ able to get a wide range of customers buying their products especially in the
 
 pandemic times where live person sales have dropped by a lot.
 
-_General Public:_ This app is helpful to the general public to search and order from
+2. _General Public:_ This app is helpful to the general public to search and order from
 
 shops from outside their locality. This might help them get access to items that their
 
@@ -44,13 +41,13 @@ fav local items just with a few taps. The delivery times are also very quick rel
 
 Amazon and they can support local businesses.
 
-28th November 2020 was also #SmallBusinessSaturday
+**_28th November 2020 was also #SmallBusinessSaturday_**
 
-UI:
-![alt text](http://url/to/img.png)
+##UI:
+![alt text](https://raw.githubusercontent.com/MukundKal/warpdrive-delivery/master/img/ui-1.PNG)
 
-![alt text](http://url/to/img.png)
+![alt text](https://raw.githubusercontent.com/MukundKal/warpdrive-delivery/master/img/ui-2.PNG)
 
-![alt text](http://url/to/img.png)
+![alt text](https://raw.githubusercontent.com/MukundKal/warpdrive-delivery/master/img/ui-3.PNG)
 
-![alt text](http://url/to/img.png)
+![alt text](https://raw.githubusercontent.com/MukundKal/warpdrive-delivery/master/img/ui-4.PNG)
